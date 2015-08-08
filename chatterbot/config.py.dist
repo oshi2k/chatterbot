@@ -1,0 +1,13 @@
+login = dict(
+    username='username',
+    password='oauth:',
+)
+
+server = dict(
+    host='irc.twitch.tv',
+    port=6667,
+)
+
+channels = [
+    'oshi2k'
+]
